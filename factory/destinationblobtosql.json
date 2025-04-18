@@ -1,0 +1,9 @@
+{
+	"name": "destinationblobtosql",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9b7779c-d2c6-4362-8bf2-1d3c21bbaf6a",
+		"tenantId": "0fa74053-b4a1-4cc7-ab94-95f5f7e3ef46"
+	}
+}
